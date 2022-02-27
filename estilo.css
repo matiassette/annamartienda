@@ -1,0 +1,15 @@
+body {
+    background: pink;
+    color: white;
+    background-color: violet;
+    display: block;
+}
+p {
+    color: white;
+    font-size: medium;
+    text-align: center;
+
+}
+span{
+    background-color: pink;
+}
